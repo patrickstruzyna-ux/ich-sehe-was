@@ -1,0 +1,8 @@
+{
+  "name": "Ich sehe was, was du nicht siehst AI",
+  "description": "An interactive web application that allows users to play the classic 'I Spy' game against a powerful AI. The app uses computer vision to analyze images and speech recognition for an immersive experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
